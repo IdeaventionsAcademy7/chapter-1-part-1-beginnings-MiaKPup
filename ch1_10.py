@@ -23,4 +23,5 @@ print("Kittens, cats, sacks, and wives, how many were going to St. Ives?")
 sleep(2)
 print(7**4)
 sleep(1)
+# RCH: Please don't forget to add all the different numbers together.  You added the kittens plus two.
 print("The man and I were also going to St. Ives. Therefore a total of", 7**4+2,"things were going to St. Ives.")
